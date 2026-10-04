@@ -13,7 +13,7 @@
 ```text
 name ....... DWIJ MISTRY
 role ....... builder of devtools for coding agents
-base ....... Gujarat, IN // GTU Computer Engineering
+base ....... Gujarat, IN
 ```
 
 I build small, sharp, inspectable tools — the kind that make invisible work
